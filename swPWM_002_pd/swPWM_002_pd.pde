@@ -20,6 +20,8 @@
  
  example: S01-X250.
            S01-X2.    pn: 0 frq: 1 dur:402
+           S01-A.    pn: 0 frq: 1 dur:17
+
            
  //
  */
